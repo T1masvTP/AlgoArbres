@@ -1,7 +1,6 @@
-package sample;
+package ArbresBinaires;
 
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * Cette classe est dite générique car le contenu du noeud de l'arbre peut être de tout type
